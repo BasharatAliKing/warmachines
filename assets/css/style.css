@@ -279,6 +279,7 @@ footer{
         width: 100%;
     }
     #header .left{
+        top: 25px;
         left: 20px;
     }
     #home{
@@ -289,7 +290,7 @@ footer{
         margin: 80px auto;
     }
     #home .a img{
-        margin-left: 20px;
+        margin-left: 70px;
     }
     #home .a h1{
         font-size: 40px;
@@ -300,7 +301,7 @@ footer{
     }
     #home .a .play .img{
         margin: 0px;
-        margin: 0px 60px;
+        margin: 0px 110px;
     }
     #home .b{
         margin-left: 50px;
@@ -313,7 +314,7 @@ footer{
     }
     #images img{
         margin-top: 20px;
-  
+   width: 80%;
         margin-bottom: 20px;
     }
     #youtube{
@@ -322,9 +323,10 @@ footer{
     #youtube iframe{
        
         width: 100%;
-       margin-left: 10px;
+       margin-left: 0px;
+       text-align: center;
     }
     #support h1{
-        font-size: 30px;
+        font-size: 40px;
     }
 }
