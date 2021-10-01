@@ -15,3 +15,18 @@ function carousel() {
 
 
 AOS.init();
+
+// sidebar
+
+var side=document.getElementById('side');
+var togle=document.getElementById('togle');
+ var header=document.querySelector('#header');
+
+side.remove();
+//togle.onclick=function(){
+ 
+  //header.appendChild(side);
+
+  
+
+//}
