@@ -259,6 +259,14 @@ footer{
         position: absolute;
         width: 100%;
     }
+    #header #togle{
+        display: inline;
+        top: 20px;
+        background-color: #1e1b18;
+    }
+    #header .left{
+        left: 20px;
+    }
     #header #main{
         display: none;
     }
