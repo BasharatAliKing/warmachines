@@ -73,11 +73,18 @@
     width: 100%;
 }
 #home .a .king img{
-    width: 150px;
+    width: 90%;
+    height: 90%;
     border-radius: 20px;
 }
 #home .a .king{
     display: flex;
+}
+#home .a .king .c{
+    width: 100%;
+}
+#home .a .king .d{
+    width: 100%;
 }
 #home h1{
     font-size: 60px;
@@ -300,6 +307,10 @@ footer{
     }
     #home .a img{
         margin-left: 20px;
+    }
+    #home .a .king{
+        text-align: center;
+        display: inline;
     }
     #home .a h1{
         font-size: 40px;
