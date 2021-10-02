@@ -300,6 +300,7 @@ footer{
     }
     #header #togle{
         display: inline;
+        top: 30px;
         background-color: #1e1b18;
     }
     #header .left{
